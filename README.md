@@ -7,5 +7,7 @@ Projeto wordcloud da terceira maratona Speedruns Brasil. Isso inclui:
 - Arquivos de texto adicionais para refino das wordclouds, como stopwords e termos whitelisted (4 KB)
 
 ~
+
 Guilherme Herbst Vazquez
+
 /g-v
