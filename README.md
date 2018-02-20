@@ -6,6 +6,10 @@ Projeto wordcloud da terceira maratona Speedruns Brasil. Isso inclui:
 - Imagens das wordclouds (650 KB): wordcloud.png , wordcloud_geral.png
 - Arquivos de texto adicionais para refino das wordclouds, como stopwords e termos whitelisted (4 KB)
 
+## Wordcloud (sem emotes):
+![wordcloud](https://user-images.githubusercontent.com/6504261/36452728-5b932a9a-1674-11e8-9048-37bf91e4ab42.png)
+
+
 ~
 
 Guilherme Herbst Vazquez
