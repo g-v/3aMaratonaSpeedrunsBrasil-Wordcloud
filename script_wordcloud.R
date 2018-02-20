@@ -1,8 +1,5 @@
 # Script that loads data from a text file and generates some cool wordclouds
-# written by petSM64
-
-# Warranty:
-# This software is provided 'as-is', without any express or implied warranty.
+# Author: github.com/g-v
 
 
 # inicializar
